@@ -22,7 +22,7 @@ $$\text{Toplam Maluliyet (\%)} = A + \frac{B \times (100 - A)}{100}$$
   4. **60 Yaş Üstü Kuralı:** İlgilinin yaşı 60'ın üzerinde ise toplam birleştirilmiş sonuca Balthazard formülü ile ayrıca **%10 yaş eklentisi** uygulanır.
 
 🔗 **Canlı Hesaplama Motoru ve 2026 Ek-2 Puan Cetveli:**  
-👉 [Balthazard Maluliyet ve Engellilik Oranı Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/maluliyet-hesaplama)
+👉 [Balthazard Maluliyet ve Engellilik Oranı Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/trafik-kazasi-maluliyet-hesaplama)
 
 ---
 
@@ -37,8 +37,9 @@ Anayasa Mahkemesi'nin **17.07.2020 tarihli, 2019/40 E., 2020/40 K.** sayılı ip
 $$\text{Sürekli İş Göremezlik Tazminatı} = \left( Y_{\text{aktif}} \times G_{\text{net}} + Y_{\text{pasif}} \times G_{\text{pasif}} \right) \times \frac{\text{Maluliyet Oranı}}{100} \times \left(1 - \frac{\text{Müterafik Kusur}}{100}\right)$$
 
 🔗 **Canlı Aktüerya Motoru:**  
-👉 [Trafik ve İş Kazası Aktüeryal Tazminat Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/trafik-kazasi-tazminat)  
-👉 [İş Kazası Maluliyet ve Destekten Yoksun Kalma Hesaplama](https://koptay.av.tr/hesaplama-araclari/is-kazasi-tazminat)
+👉 [Trafik Kazası Aktüeryal Tazminat Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/trafik-kazasi-tazminati)  
+👉 [İş Kazası Maluliyet ve Tazminat Hesaplama](https://koptay.av.tr/hesaplama-araclari/tazminat-hesaplama)  
+👉 [Destekten Yoksun Kalma Tazminatı Hesaplama](https://koptay.av.tr/hesaplama-araclari/destekten-yoksun-kalma-tazminati-hesaplama)
 
 ---
 
@@ -74,7 +75,7 @@ $$\text{Fiili Cezaevi Yatarı} = \max\left(5\text{ gün},\; \text{Koşullu Salı
 
 🔗 **Canlı Tediye & TİS İkramiyesi Hesaplama Motoru:**  
 👉 [2026 Kamu İşçisi İlave Tediye ve 30 Günlük İkramiye Hesaplama](https://koptay.av.tr/hesaplama-araclari/ilave-tediye)  
-👉 [2026 İlave Tediye Ödeme Tarihleri Takvimi](https://koptay.av.tr/hesaplama-araclari/tediye-odeme-tarihleri)
+👉 [2026 İlave Tediye Ödeme Tarihleri Takvimi](https://koptay.av.tr/ilave-tediye-odeme-tarihleri)
 
 ---
 
@@ -88,8 +89,8 @@ $$\text{Net Araç Mahrumiyet Alacağı} = (\text{Makul Onarım / Pert Süresi} -
 * **Kasko Pert Rayiç Değer Farkı:** Sigorta şirketinin teklif ettiği sovtajlı/indirimli pert bedeli ile aracın kaza tarihindeki gerçek piyasa rayici arasındaki fark **Sigorta Tahkim Komisyonu**'nda temerrüt faiziyle tahsil edilir.
 
 🔗 **Canlı Araç Hasar Hesaplama Motorları:**  
-👉 [Araç Mahrumiyet (İkame Araç) Bedeli Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/arac-hasar-ikame)  
-👉 [Kasko Pert Araç Rayiç Değer Farkı Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/kasko-pert-farki)  
+👉 [Araç Mahrumiyet (İkame Araç) Bedeli Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/arac-hasar-ikame-arac)  
+👉 [Kasko Pert Araç Rayiç Değer Farkı Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/kasko-pert-total-ve-rayic-deger-farki-hesaplama)  
 👉 [2026 Araç Değer Kaybı Hesaplama Motoru](https://koptay.av.tr/hesaplama-araclari/arac-deger-kaybi)
 
 ---
